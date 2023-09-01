@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2%;
+    justify-content: space-between;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #E0F4B7;
+    color: #5E5E71;
+}
+

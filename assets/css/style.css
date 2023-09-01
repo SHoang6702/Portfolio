@@ -1,0 +1,15 @@
+.pink {
+    /* There is a better way to do what I want, but I don't know how to go about that */
+    background-color: #E5A8C6;
+}
+.green {
+    background-color: #E0F4B7;
+}
+.card {
+    flex: 1 0 0;
+    padding: 10px;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #E5A8C6;
+}
